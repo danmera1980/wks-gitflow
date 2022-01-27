@@ -18,13 +18,11 @@ const columns = [
     title: 'Manufacturer',
     dataIndex: 'manufacturer',
     key: 'manufacturer',
-   
   },
   {
     title: 'Passengers',
     dataIndex: 'passengers',
     key: 'passengers',
-   
   },
   {
     title: 'Films count',
